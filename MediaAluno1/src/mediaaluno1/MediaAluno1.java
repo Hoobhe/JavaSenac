@@ -19,10 +19,10 @@ public class MediaAluno1 {
         nota1 = entrada.nextDouble();
         
         System.out.println("Informe sua segunda nota: ");
-        nota2 = entrada.nextFloat();
+        nota2 = entrada.nextDouble();
         
         System.out.println("Informe sua terceira nota: ");
-        nota3 = entrada.nextFloat();
+        nota3 = entrada.nextDouble();
         
         media = (nota1 + nota2 + nota3) / 3;
         
